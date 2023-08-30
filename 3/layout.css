@@ -1,0 +1,18 @@
+ul {
+  display: flex;
+  list-style: none;
+  margin-left: -2rem;
+}
+li {
+  padding: 0 1rem 1rem 0;
+}
+body {
+  background: #cccccc;
+  margin: 1rem;
+}
+img {
+  border: solid white 1rem;
+}
+#description {
+  margin-top: 1rem;
+}
